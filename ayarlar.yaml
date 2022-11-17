@@ -1,0 +1,9 @@
+bot: 
+ token: "MTA0MjU0NDkxNjE2MjY3NDc0OQ.GPmH4L.bEag2G_riPS1KQWS3FsVJvh9AYQeG_zNKBigRk"
+ durum: "dnd" #online idle invisible dnd koyulabilir
+ aktivite: "WATCHİNG" #PLAYING STREAMING LISTENING WATCHING CUSTOM_STATUS COMPETING 'den biri koyulabilir
+ aktiviteAdı: "Orçun Dökmeci ❤️ Arsenic."
+ sahipler:
+  - "838112128254476349"
+  - "262324708609884170"
+ 
